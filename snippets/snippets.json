@@ -1,0 +1,24 @@
+{
+    "Vuejs Starter Template": {
+        "prefix": "!vue",
+        "body": [
+            "<template></template>",
+            "$0",
+            "<script>",
+            "export default {",
+            "name: 'cc-review-details',",
+            "data() {",
+            "return {};",
+            "},",
+            "methods: {},",
+            "created() {},",
+            "mounted() {},",
+            "beforeDestroy() {}",
+            "};",
+            "</script>",
+            "$0",
+            "<style scoped></style>"
+        ],
+        "description": "Vuejs starter template"
+    }
+}

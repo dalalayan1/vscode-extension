@@ -1,0 +1,29 @@
+{
+    "name": "snippet-gen",
+    "displayName": "snippet-gen",
+    "description": "A simple code snippet generator tool",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dalalayan1/dummy"
+    },
+    "icon": "icon.png",
+    "contributes": {
+        "snippets": [
+            {
+                "language": "html",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "vue",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
